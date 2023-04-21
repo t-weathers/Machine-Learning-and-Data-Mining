@@ -6,3 +6,5 @@ This assignment is broken into a few main objectives:
 - introduce different variables of k, and determine which shows the least Sum of Squared Error (SSE)
 
 - cluster a set of images represented with HOG
+
+Running this requires the HOG image files, which is why it cannot be run in its current state from GitHub
