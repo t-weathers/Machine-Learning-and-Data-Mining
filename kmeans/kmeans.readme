@@ -1,1 +1,8 @@
+This assignment details the use of kmeans clustering as well as experimenting with decision trees
 
+This assignment is broken into a few main objectives:
+- implement k-means clustering, which for each point computes the centroid that is closest, update the value of the centroid as a mean of the assigned points, and calculate the sum of squared error
+
+- introduce different variables of k, and determine which shows the least Sum of Squared Error (SSE)
+
+- cluster a set of images represented with HOG
